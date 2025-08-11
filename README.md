@@ -240,5 +240,4 @@
 <li><a href="https://github.com/bwrsandman/Bless">Bless</a> - Hex editor for linux</li>
 </ul>
 <h1 id="thats-it">That’s it!</h1>
-<p>Thanks uwu - Alaa Zorkane</p>
 
